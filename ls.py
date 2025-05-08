@@ -22,3 +22,19 @@ public class Searchlinear {
         }
     }
 }
+
+
+sidgupta4690@cloudshell:~$ git clone https://github.com/YashGatkal/lp2.git
+Cloning into 'lp2'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+sidgupta4690@cloudshell:~$ ls
+lp2  README-cloudshell.txt
+sidgupta4690@cloudshell:~$ cd lp2
+sidgupta4690@cloudshell:~/lp2$ ls prom.py
+prom.py
+sidgupta4690@cloudshell:~/lp2$ python prom.py
+hello world
+sidgupta4690@cloudshell:~/lp2$ 
